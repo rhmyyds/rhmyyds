@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!+👋;+I'm+冉汉梦!" />
 </h1>
-Self-introduction<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=rhmyyds&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+Self-introduction<img src="https://github-readme-stats.vercel.app/api?username=rhmyyds&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
 - 🔭 I’m currently working on Java <br/>
 - 🌱 I’m currently learning Java+Vue <br/>
